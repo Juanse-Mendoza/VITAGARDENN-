@@ -1,0 +1,61 @@
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.AssemblyReference.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CopyComplete
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\LOGICA.cs\bin\Debug\LOGICA.cs.dll
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\LOGICA.cs\bin\Debug\LOGICA.cs.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\LOGICA.cs\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\LOGICA.cs\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.dll
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\LOGICA.cs\obj\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.AssemblyReference.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CopyComplete
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\LOGICA.cs.dll
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\LOGICA.cs.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.dll
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.AssemblyReference.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CopyComplete
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\LOGICA.cs\obj\Debug\LOGICA.cs.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CopyComplete
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.pdb
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.csproj.Up2Date
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\LOGICA.cs\obj\Debug\LOGICA.cs.pdb
