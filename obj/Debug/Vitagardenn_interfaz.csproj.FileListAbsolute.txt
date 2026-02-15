@@ -1,0 +1,523 @@
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_compra_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_EntradaC_venta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_compra_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_EntradaC_venta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Juan Sebastian Escuela 2022\Trabajos de software 1103\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CopyComplete
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_compra_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_EntradaC_venta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+D:\Users\Nidia Muñoz\Documents\2. Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Try\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_compra_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_EntradaC_venta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CopyComplete
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\PROYECTO ACTUALIZADO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_compra_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_EntradaC_venta.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\ESTUDIANTE\Documents\Julio 21 PROYECTO\PROYECTO ACTUALIZADO\Prueba Proyecto\Prueba Proyecto\Proyecto 2022\Proyecto 2022\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.Cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_compra_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_EntradaC_venta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.Cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_priincipal.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_priincipal.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_detalles.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_mod_principal.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_productos.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_telefonos.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Entrada_planta.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Salida_producto.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_compra_producto.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_inventario_producto.resources
+D:\Users\Nidia Muñoz\Documents\2_ Juan Andrés\Juan Andrés\Juan Andrés\2022\SENA\Septiembre 13 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_compra_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_inventario_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Entrada_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_detalles.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_priincipal.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_mod_principal.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_productos.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_telefonos.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Salida_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CopyComplete
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_compra_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_inventario_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_planta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Entrada_planta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_detalles.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_priincipal.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_mod_principal.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_productos.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_telefonos.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Salida_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\ESTUDIANTE\Documents\Septiembre 19 PROYECTO\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CopyComplete
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_compra_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_inventario_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Entrada_planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_detalles.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_priincipal.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_mod_principal.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_productos.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_telefonos.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Salida_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CopyComplete
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\Dropbox\PC\Downloads\Septiembre 19 PROYECTO\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_compra_producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_inventario_producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_planta.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Entrada_planta.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_detalles.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_priincipal.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_mod_principal.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_productos.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_telefonos.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Salida_producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CopyComplete
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_Factura.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\stdole.dll
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_reporte_planta.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_reporte_producto.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_reporte_facturacs.resources
+C:\Users\juanm\OneDrive\Desktop\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_reporte1.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe.config
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\Vitagardenn_interfaz.pdb
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\stdole.dll
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\BASE_DE_DATOS.pdb
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\bin\Debug\LOGICA.cs.pdb
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_cliente.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Compra.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_compra_producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_entrada_producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_inventario_producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Det_salida_planta.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_planta.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Det_venta_producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Empleado.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_entrada_compra.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Entrada_planta.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Especie.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Inicio.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_reporte1.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_reporte_facturacs.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_reporte_planta.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_reporte_producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_login.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Marca.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_detalles.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_Factura.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_priincipal.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_mod_principal.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Menu_productos.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.frm_Menu_telefonos.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Planta.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Properties.Resources.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Proveedor.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Salida_producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_cliente.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_emplead.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tel_proveedor.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Tipo_producto.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Usuario.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.Frm_Venta.resources
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.GenerateResource.cache
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagard.50E03820.Up2Date
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.exe
+C:\Users\juanm\OneDrive\Documentos\02 PORTAFOLIO\03 PROYECTO SENA\PROYECTO VITAGARDENN\Vitagardenn_interfaz\Vitagardenn_interfaz\obj\Debug\Vitagardenn_interfaz.pdb
